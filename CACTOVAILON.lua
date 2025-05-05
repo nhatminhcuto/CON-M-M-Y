@@ -5,7 +5,7 @@ local scripts = {
     [16480898254] = "https://raw.githubusercontent.com/nhatminhcuto/CON-M-M-Y/refs/heads/main/N/M/E.T.W.lua",
     [116605585218149] = "https://raw.githubusercontent.com/nhatminhcuto/CON-M-M-Y/refs/heads/main/N/M/G.F.W1.lua",
     [106962503558742] = "https://raw.githubusercontent.com/nhatminhcuto/CON-M-M-Y/refs/heads/main/N/M/G.F.W2.lua",
-    [3101667897]  = ""
+    [3101667897]  = "https://raw.githubusercontent.com/nhatminhcuto/CON-M-M-Y/refs/heads/main/N/M/L.O.F.lua"
 }
 
 if scripts[placeId] then
